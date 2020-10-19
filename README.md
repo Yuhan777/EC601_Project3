@@ -16,3 +16,4 @@ where $TIMIT_FOLDER is the folder of the original TIMIT corpus, $OUTPUT_FOLDER i
 
 
 * Step 3: Get the result.
+<img width="706" alt="Screen Shot 2020-10-19 at 2 18 10 AM" src="https://user-images.githubusercontent.com/70667153/96407563-4323d600-1214-11eb-9c93-c139ca586936.png">
