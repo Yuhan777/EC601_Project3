@@ -1,5 +1,5 @@
 # EC601_Project3: Open Souce Project
-## Phase1 
+
 ### Overview
 * The goal of this project is to deploy a complex system using the given open-source library and dupilcate the result of the system. In my case, I choose to delopy the SincNet which is a neural architecture for processing raw audio samples.
 ### Prerequisites
